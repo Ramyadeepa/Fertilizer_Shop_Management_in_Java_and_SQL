@@ -1,1 +1,1 @@
-# Fertilizer Shop Management in Java and SQL
+# Fertilizer Shop Management in Java
